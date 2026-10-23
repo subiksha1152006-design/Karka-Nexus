@@ -1,0 +1,6 @@
+{
+  "name": "KARKA NEXUS AI",
+  "description": "Futuristic student career operating system and development platform. Discover career direction, analyze skill gaps, generate industry project blueprints, and prepare for tech placements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
